@@ -1,2 +1,5 @@
-theme: jekyll-theme-tactile
-title: Qipaozhu站点
+title: 实用的文档
+description: 非常实用的东西
+
+show_downloads: false
+theme: jekyll-theme-architect
